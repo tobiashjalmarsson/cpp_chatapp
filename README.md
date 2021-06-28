@@ -1,2 +1,2 @@
-# cpp_chatapp
+# cpp_todo_app
 Getting familiar with c++
